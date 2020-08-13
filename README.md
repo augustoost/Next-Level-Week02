@@ -77,7 +77,7 @@ Clone ou faça o downlod desse repositório:
 
 ```
 # Clone o repositório
-$ git clone https://github.com/rosooares/proffy
+$ git clone https://github.com/augustoost/Next-Level-Week02.git
 ```
 
 Acesse a pasta server e faça as instalações:
